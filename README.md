@@ -8,5 +8,5 @@ Website additions
 there is an introductory path 
 Test function
 
-this is the master branch
+this is the testing branch
 test 2
