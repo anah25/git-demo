@@ -8,9 +8,8 @@ Website additions
 there is an introductory path 
 Test function
 
-this is the master branch
+this is the testing branch
 test 2
-me
-
-fav color
-interesting
+ana
+green col
+i like sarmale
