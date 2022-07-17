@@ -1,6 +1,7 @@
 # Demo Git Repo 
 
 This is the first pharagraph 
+## Added a test
 
 ## Ipsum below 
 Website additions
