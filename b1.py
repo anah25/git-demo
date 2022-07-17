@@ -1,4 +1,6 @@
 def main():
-    pass
+    """
+    Checks if there is enough memory
+    """
 
-if __name__ == '__main__':
+main()
