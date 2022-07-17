@@ -1,4 +1,4 @@
 def main():
-    pass
+    print('Everithing is OK')
 
-if __name__ == '__main__':
+main()
